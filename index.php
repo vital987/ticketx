@@ -8,7 +8,7 @@ include 'homehead.php';
     <link rel='stylesheet' href='index.css'>
     <br><br>
     <h1 text-transform: capitalize;>
-        <p style="font-family: Roboto; font-weight: bold;">TicketX Booking Portal</p>
+        <p style="font-family: Roboto; font-weight: bold;">TicketX Ticket-Booking Portal</p>
     </h1>
 
     <div class="container">
