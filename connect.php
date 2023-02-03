@@ -1,7 +1,7 @@
 <?php
-$hostname 	= 'db-svc';
+$hostname 	= 'ticketx-db';
 $username	= 'root';
-$password	= 'adminx123';
+$password	= 'passpass';
 $dbname		= 'train';
 $connect	=  mysqli_connect($hostname , $username , $password ,$dbname) or die("Error Connecting");
 ?>
