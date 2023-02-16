@@ -3,7 +3,7 @@ include 'homehead.php';
 ?>
 
 <html>
-
+ 
 <head>
     <link rel='stylesheet' href='index.css'>
     <br><br>
